@@ -8,7 +8,7 @@
         <version>3.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>guru.springframework</groupId>
+    <groupId>birichani_codes</groupId>
     <artifactId>spring-6-reactive</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-6-reactive</name>
